@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suriyaprakash</h1>
-<h3 align="center">Aspiring Data Analyst | Passionate about transforming raw data into actionable insights | Proficient in data analysis, visualization, and statistical modeling</h3>
+<h3 align="center">Aspiring Data Enthusiast | Passionate about transforming raw data into actionable insights | Curious in Artificial Intelligence, Machine Learning, Data analysis, Visualization, and Statistical modeling</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suriyag09&label=Profile%20views&color=0e75b6&style=flat" alt="suriyag09" /> </p>
 
